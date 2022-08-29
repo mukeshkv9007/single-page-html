@@ -4,8 +4,8 @@
 
 | Utility | Tool |  |
 | ------------- | ------------- | ------------- |
-| Code Versioning , Library Records, Open Source Support | Git | - [x] |
-| Containerization | Docker | - [x] |
+| Code Versioning , Library Records, Open Source Support | Git | [x] |
+| Containerization | Docker | [x]  |
 | Server| Docker Ngnix Image | - [ ] |
 | Orchestration | Kubernetes | - [ ] |
 | CI-CD|Jenkins | - [ ] |
