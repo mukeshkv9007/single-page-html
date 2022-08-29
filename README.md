@@ -5,10 +5,10 @@
 | Utility | Tool |
 | ------------- | ------------- | ------------- |
 | Code Versioning , Library Records, Open Source Support | Git | 
-| Containerization | Docker |[x] |
-| Server| Docker Ngnix Image |
-| Orchestration | Kubernetes |
-| CI-CD|Jenkins |
+| Containerization | Docker | [x] |
+| Server| Docker Ngnix Image | [] |
+| Orchestration | Kubernetes | [] |
+| CI-CD|Jenkins | [] |
 
 ## Steps 
  #### Containerize the Application with Dockerfile 
